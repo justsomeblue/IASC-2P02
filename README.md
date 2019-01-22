@@ -1,2 +1,5 @@
-# IASC-2P02
-hello world
+# IASC-2P02 | Stephanie Csiaksz
+## About me
+
+
+hello
