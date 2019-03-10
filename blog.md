@@ -1,10 +1,29 @@
 # Blog post
 
-This is the post
-<!--	Exported from Voyant Tools (voyant-tools.org).
-The iframe src attribute below uses a relative protocol to better function with both
-http and https sites, but if you're embedding this into a local web page (file protocol)
-you should add an explicit protocol (https if you're using voyant-tools.org, otherwise
-it depends on this server.
-Feel free to change the height and width values or other styling below: -->
+
+As Kirschenbaum, Alvarado, and Ramsay have variously argued, the digital humanities draws from a
+number of established disciplines and research methods. This is a terrible idea. Digital humanities
+research attempts to combine two things that are fundamentally incompatible: the sciences and the
+humanities. Empirical or scientific approaches believe in objective facts that stand on their own;
+humanities approaches believe that all truth exists from a subjective, human perspective. These two
+approaches are fundamentally at odds with each other, and they can never be combined. Give it up,
+dh!
+
+It is very easy to see digital humanities as an oxymoron, two mindsets and values that act like oil and water when combined. If you look at the two on their own, this would be correct. I find myself agreeing with some arguments against this from Kirschenbaum, Alvarado, and Ramsay, though my conclusions and reasonings are rather fittingly different from them.
+ Kirschenbaum argues that digital humanities belongs in the English department and praises the way that this would change the current model. Alvarado argues digital humanities is a social category tool for many different departments rather then something that connects all departments together. Ramsay also shares the praises for digital humanities analytical roots, and the ways that it can be used for text analysis in the English department. All three dispute the idea that humanities and science cannot combine, yet they all heavily imply that the humanities are the focus, not an even split and the digital science side is merely a linking method to borrow some scientific practices. I would argue this one step further to say that digital humanities can easily be spun the other way around, and we should see it as a more fluid and dynamic department which is hard to define because people see it as a link instead of its own department.  I find it hypocritical to suggest that we even need a strict and absolute definition of digital humanities, when also suggesting that it take a humanitary approach to work and suggest everything be subjective and human. Alvarado speaks about digital humanities as “a small town that has recently been rated as a great place to raise a family.” Which in turn turns to chaos as so many new people come in and changes the whole dynamic. But what he misses from this is that once the chaos settles, a new entirely unique but still fully functional and even more lively then ever town is formed. Change is not a new concept and maintaining order is not what the digital humanities is about. Instead, chaos should be embraced and looked at from a new standpoint.
+
+Computers are fundamentally a scientific invention. They are amazingly useful machines and run on pure logic. These logic machines have since then been used to help create illogical ways of thinking, and aid in human perspectives. Therefore, this could also be used in the sciences to understand science from a human perspective. Digital humanities are not like science, because it does not always expect to answer all the questions it poses. Digital humanities are not like humanities, because it can be used to present objective facts as well. The problem with trying to combine science and humanities to create digital humanities is simply because it has become more then the sum of its parts. Digital humanities are no longer just a branch to be welcomed into English departments, which most of the readings in class find bias towards, noted in the high usage of words like novel, English, and humanities, while mentions of science, and even computers, do not make it to this display. Just as computer science is not the same as biology, digital humanities are not just English humanities.
+
 <iframe style='width: 509px; height: 358px;' src='//voyant-tools.org/tool/Cirrus/?visible=25&corpus=defc31d123ab09522ce9d0e615046443'></iframe>
+This shows some well hidden bias through the use of digital science, digital humanities, and digital art.
+
+ Instead of trying to find the hidden link from science and English together in digital humanities the first step to understanding is respecting the department, and realize it is not just English and science working together, but also the arts. Bethany Nowviskie is someone we have read before in class, but from her work titled resistance in the materials she shares my stance on the artistic side of humanities, and how we need people who want to think outside the box instead of just trying to have digital humanities be a connecting link between English and science. Nowviskie states “
+Absent their energetic involvement in shaping new structures in higher education, I am convinced that digital humanities will only scale as commodity tool-use for the classroom—not as a generative research activity in its own right.” Which I understand as meaning without learning from the arts and accepting a more gray-area and loose meaning to digital humanities, it will fail to reach its maximum potential as a department and be doomed to do nothing but assist the humanities as Kirschenbaum, Alvarado, and Ramsay support. If science and humanites are oil and water, then adding the arts in is like cake mix. Creating something that is more then the sum of its parts rather then a mess. Overall, my conclusion to my findings is humanities is not just a combination of the digital sciences and the English humanities, but also of the chaotic arts, and I find this to be a very satisfying definition. 
+
+Citations
+
+Alvarado, R. C. (2012). The Digital Humanities Situation. Debates in the Digital Humanities,50-55. doi:10.5749/minnesota/9780816677948.003.0005
+Kirschenbaum, M. (2012). What Is Digital Humanities and What’s It Doing in English Departments? Debates in the Digital Humanities,3-11. doi:10.5749/minnesota/9780816677948.003.0001
+Nowviskie, B. (2016). Resistance in the Materials. Digital Humanities: The Expanded Field. Retrieved from http://dhdebates.gc.cuny.edu/debates/text/66
+Ramsay, S. (2011). Reading Machines. doi:10.5406/illinois/9780252036415.001.0001
+
