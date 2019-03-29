@@ -11,4 +11,4 @@ It is very easy to see digital humanities as an oxymoron, two mindsets and value
 [continue reading](blog)
 
 
-[cat time...](reveal/index.html)
+[slideshow](reveal/index.html)
